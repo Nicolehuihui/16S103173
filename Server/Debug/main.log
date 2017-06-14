@@ -1,0 +1,17 @@
+﻿  MultiProtoclServer.cpp
+MultiProtoclServer.cpp(173): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(233): note: 参见“_strlwr”的声明
+MultiProtoclServer.cpp(213): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+MultiProtoclServer.cpp(215): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(233): note: 参见“_strlwr”的声明
+MultiProtoclServer.cpp(364): warning C4996: '_strlwr': This function or variable may be unsafe. Consider using _strlwr_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(233): note: 参见“_strlwr”的声明
+MultiProtoclServer.cpp(476): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+MultiProtoclServer.cpp(566): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  main.cpp
+  正在生成代码...
+  LINK : 缺少程序数据库 G:\工大\网络实验\实验四\Server\Debug\main.pdb；正在执行完全链接
+  main.vcxproj -> G:\工大\网络实验\实验四\Server\.\Debug\main.exe
+  main.vcxproj -> .\Debug\main.pdb (Full PDB)
